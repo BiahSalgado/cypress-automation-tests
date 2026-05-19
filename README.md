@@ -1,9 +1,9 @@
-# Cypress Automation Tests 💻
+# Cypress Automation Tests 💻💙
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![BDD](https://img.shields.io/badge/BDD-Given%2FWhen%2FThen-6DB33F?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge)
 
 ---
 
@@ -11,7 +11,7 @@
 
 Repositório de testes automatizados desenvolvidos com **Cypress**, aplicando boas práticas de QA como BDD, cenários positivos e negativos, e documentação clara de cada caso de teste.
 
-> 🛡️ *QA não é sobre encontrar erros — é sobre não deixar eles chegarem até o usuário.*
+>  *QA não é sobre encontrar erros — é sobre não deixar eles chegarem até o usuário.*
 
 ---
 
