@@ -1,4 +1,4 @@
-# Cypress Automation Tests
+# 🧪 Cypress Automation Tests
  
 <div align="center">
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
